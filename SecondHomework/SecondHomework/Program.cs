@@ -17,7 +17,6 @@
             bool isActive = true;
 
             object surname = "Ivanov";
-
         }
     }
 }
