@@ -5,14 +5,14 @@
         static void Main(string[] args)
         {
             int catCounter = 3;
-            float literCounter = 12.5f;
+            float amountWaterAtPlayer = 12.5f;
             long nationalBudget = 4000000000000;
             byte damage = 15;
             short moveSpeed = 4;
             double bulletSpeed = 7.3;
 
             string name = "Ivan";
-            char classDesignation = 'A';
+            char firstClassAvatar = 'A';
 
             bool isActive = true;
 
