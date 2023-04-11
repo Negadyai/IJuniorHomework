@@ -1,0 +1,15 @@
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\bin\Debug\net6.0\FifrhHomework.exe
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\bin\Debug\net6.0\FifrhHomework.deps.json
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\bin\Debug\net6.0\FifrhHomework.runtimeconfig.json
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\bin\Debug\net6.0\FifrhHomework.dll
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\bin\Debug\net6.0\FifrhHomework.pdb
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.csproj.AssemblyReference.cache
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.AssemblyInfoInputs.cache
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.AssemblyInfo.cs
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.csproj.CoreCompileInputs.cache
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.dll
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\refint\FifrhHomework.dll
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.pdb
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\FifrhHomework.genruntimeconfig.cache
+E:\Git\IJuniorHomework\FifrhHomework\FifrhHomework\obj\Debug\net6.0\ref\FifrhHomework.dll
