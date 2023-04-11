@@ -1,0 +1,15 @@
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.exe
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.deps.json
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.runtimeconfig.json
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.dll
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\bin\Debug\net6.0\FourthHomework.pdb
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.csproj.AssemblyReference.cache
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.AssemblyInfoInputs.cache
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.AssemblyInfo.cs
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.csproj.CoreCompileInputs.cache
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.dll
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\refint\FourthHomework.dll
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.pdb
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\FourthHomework.genruntimeconfig.cache
+E:\Git\IJuniorHomework\FourthHomework\FourthHomework\obj\Debug\net6.0\ref\FourthHomework.dll
