@@ -1,0 +1,15 @@
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\bin\Debug\net6.0\SixthHomework.exe
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\bin\Debug\net6.0\SixthHomework.deps.json
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\bin\Debug\net6.0\SixthHomework.runtimeconfig.json
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\bin\Debug\net6.0\SixthHomework.dll
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\bin\Debug\net6.0\SixthHomework.pdb
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.csproj.AssemblyReference.cache
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.AssemblyInfoInputs.cache
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.AssemblyInfo.cs
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.csproj.CoreCompileInputs.cache
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.dll
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\refint\SixthHomework.dll
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.pdb
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\SixthHomework.genruntimeconfig.cache
+E:\Git\IJuniorHomework\SixthHomework\SixthHomework\obj\Debug\net6.0\ref\SixthHomework.dll
