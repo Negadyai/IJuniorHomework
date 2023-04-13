@@ -5,10 +5,10 @@
         static void Main(string[] args)
         {
             int photos = 52;
-            int amoutPhohotosInRow = 3;
+            int amountPhohotosInRow = 3;
 
-            int rowAmount = photos / amoutPhohotosInRow;
-            int leftoverPhotos = photos % amoutPhohotosInRow;
+            int rowAmount = photos / amountPhohotosInRow;
+            int leftoverPhotos = photos % amountPhohotosInRow;
 
             Console.WriteLine($"Количество рядов: {rowAmount}");
             Console.WriteLine($"Картинок сверхмеры: {leftoverPhotos}");
