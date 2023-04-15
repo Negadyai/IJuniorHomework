@@ -7,10 +7,10 @@
             int photos = 52;
             int amountPhohotosInRow = 3;
 
-            int rowAmount = photos / amountPhohotosInRow;
+            int amountFilledRows = photos / amountPhohotosInRow;
             int leftoverPhotos = photos % amountPhohotosInRow;
 
-            Console.WriteLine($"Количество рядов: {rowAmount}");
+            Console.WriteLine($"Количество рядов: {amountFilledRows}");
             Console.WriteLine($"Картинок сверхмеры: {leftoverPhotos}");
         }
     }
